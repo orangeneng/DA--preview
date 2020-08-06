@@ -1,2 +1,3 @@
 # DA--preview
-学习数据分析-jupyter notebook
+Learn how to do data analysis
+tools : python 3.8 & jupyter notebook
